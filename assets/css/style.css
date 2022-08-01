@@ -187,7 +187,7 @@ i.menu-btn.ti-menu,
     margin-top: 46.5px;
     /* 50% là của chiều ngang của nó */
     padding-top: 50%;
-    background: url("/assets/img/slider/slider1.jpg") top center / cover no-repeat;
+    background: url("../img/slider/slider1.jpg") top center / cover no-repeat;
     
 }
 
@@ -209,6 +209,7 @@ i.menu-btn.ti-menu,
 
 #slider .text-decription{
     font-size: 15px;
+    text-shadow: 0 0 1px #000;
 }
 
 #content{
